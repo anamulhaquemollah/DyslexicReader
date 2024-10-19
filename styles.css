@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'dyslexic-font';
+    src: url('dyslexic-font.woff') format('woff');
+}
+
+.dyslexia-speaker {
+    z-index: 1000;
+}
